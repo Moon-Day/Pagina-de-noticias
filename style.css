@@ -1,0 +1,77 @@
+body{
+    font-family: 'open Sans', Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    padding: 0;
+    color: #333333d0;
+}
+.top-bar{
+    background-color: #333;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+    padding: 8px;
+    border-bottom: 5px solid orange;
+}
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+.header{
+    min-width: 414px;
+    max-width: 600px;
+}
+
+h2{
+    color: rgba(0, 0, 0, 0.562);
+    font-weight: normal;
+}
+.author{
+    font-weight: bold;
+}
+.social-icons{
+    margin-top: 20px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #3333339f;;
+}
+
+.social-icon img{
+    width: 25px;
+
+}
+
+.paragrafo-1{
+    width: 500px;
+   
+}
+
+.final-para{
+    color: orange;
+    font-size: 14px;
+}
+
+.img1 img{
+    width: 500px;
+}
+
+.span-img1{
+    color: orange;
+    font-size: 14px;
+}
+.img1 p{
+    font-size: 14px;
+}
+
+h3{
+    color: black;
+}
+.paragrafo-2{
+    width: 500px;
+}
+
+.paragrafo-2 img {
+    width: 500px;
+}
