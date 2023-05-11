@@ -5,6 +5,8 @@ body{
     color: #333333d0;
 }
 .top-bar{
+    width: 98vw;
+    margin: 0 auto;
     background-color: #333;
     color: white;
     font-size: 24px;
@@ -75,3 +77,4 @@ h3{
 .paragrafo-2 img {
     width: 500px;
 }
+
